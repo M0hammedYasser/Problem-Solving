@@ -9,7 +9,13 @@ public class Main {
                 .email("mohamed@gmail.com")
                 .build();
 
+
+        User user1 = User.builder()
+                        .id(2L)
+                        .build();
+
         System.out.println(user.toString());
+        System.out.println(user1.toString());
 
     }
 
