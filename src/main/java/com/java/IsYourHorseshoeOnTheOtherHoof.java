@@ -1,4 +1,4 @@
-package com.java.current;
+package com.java;
 
 import java.util.HashSet;
 import java.util.Scanner;

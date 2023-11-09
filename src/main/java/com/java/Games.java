@@ -1,4 +1,4 @@
-package com.java.current;
+package com.java;
 
 import java.util.ArrayList;
 import java.util.List;
